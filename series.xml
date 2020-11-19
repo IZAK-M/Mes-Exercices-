@@ -1,12 +1,7 @@
 <series>
-    <nom titre="Docteur_Who" lang="fr">
-        <personnage>Docteur Who</personnage>
-        <personnage>Rose Tyler</personnage>
-        <personnage>Mickey Smith</personnage>
-    </nom>
-    <nom titre="Game_of_Throne" lang="en">
-        <personnage etat="mort">Eddard Stark</personnage>
-        <personnage etat="mort">Joffrey Baratheon</personnage>
-        <personnage etat="mort">Margaery Tyrell</personnage>
-    </nom>
+  <nom lang="fr" titre="Docteurr_who">
+    <personnage>Docteur Who</personnage>
+    <personnage>Rose Tyler</personnage>
+    <personnage>Mickey Smith</personnage>
+  </nom>
 </series>
